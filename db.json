@@ -1,0 +1,118 @@
+{
+  "books": [
+    {
+      "title": "Eloquent JavaScript, Third Edition",
+      "pages": 472,
+      "img": "https://i.pinimg.com/474x/23/b4/c0/23b4c0b2b4ddf434f5c4fd07ddf0ba26.jpg",
+      "author": "Marijn Haverbeke",
+      "read": true,
+      "id": "01"
+    },
+    {
+      "title": "Practical Modern JavaScript",
+      "pages": 334,
+      "img": "https://image.shutterstock.com/image-illustration/word-script-lined-gold-letters-600w-392307025.jpg",
+      "author": "Nicolás Bevacqua",
+      "read": true,
+      "id": "02"
+    },
+    {
+      "title": "HTML Programming guide",
+      "pages": 334,
+      "img": "https://m.media-amazon.com/images/I/412aGWpk7wL.jpg",
+      "author": "Nicolás Bevacqua",
+      "read": false,
+      "id": "03"
+    },
+    {
+      "title": "Learning Web Design",
+      "pages": 352,
+      "img": "https://www.codingninjas.com/blog/wp-content/uploads/2021/01/image-129.png",
+      "author": "Nicholas C. Zakas",
+      "read": true,
+      "id": "04"
+    },
+    {
+      "id": "05",
+      "title": "Programming in HTML and Php",
+      "pages": 460,
+      "author": "Axel Rauschmayer",
+      "website": "http://speakingjs.com/",
+      "img": "https://rukminim1.flixcart.com/image/416/416/k0plpjk0/book/7/2/7/programming-in-html-and-php-original-imafkg4kfmhekmdw.jpeg?q=70",
+      "read": false
+    },
+    {
+      "title": "HTML & CSS",
+      "pages": 254,
+      "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518026365i/38452775._UY630_SR1200,630_.jpg",
+      "author": "Addy Osmani",
+      "read": true,
+      "id": "06"
+    },
+    {
+      "id": "07",
+      "title": "You Don't Know JS Yet",
+      "pages": 143,
+      "author": "Kyle Simpson",
+      "website": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriicMu_yyKo4Ar1bBHwjSZ5UhEQ42fcZQpg&usqp=CAU",
+      "read": false
+    },
+    {
+      "title": "Pro Git",
+      "pages": 458,
+      "img": "https://2.bp.blogspot.com/-pKPZghYTEIo/U5cv0ludF_I/AAAAAAAAAP0/rvFe_gJpqpg/s1600/HTML.jpg",
+      "author": "Scott Chacon and Ben Straub",
+      "read": false,
+      "id": "08"
+    },
+    {
+      "id": "09",
+      "title": "Rethinking Productivity in Software Engineering",
+      "pages": 310,
+      "author": "Caitlin Sadowski, Thomas Zimmermann",
+      "img": "https://m.media-amazon.com/images/I/51bXcX7fxVL.jpg",
+      "read": false
+    },
+    {
+      "id": "10",
+      "title": "Java",
+      "pages": "224",
+      "author": "Herbert Schildt",
+      "img": "https://m.media-amazon.com/images/I/51vUoD0JIhL._SL500_.jpg",
+      "read": false
+    },
+    {
+      "title": "C++",
+      "pages": "324",
+      "img": "https://www.codingninjas.com/blog/wp-content/uploads/2021/01/image-125.png",
+      "author": "E.Balagurusamy",
+      "read": false,
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "title": "Northanger Abbey",
+      "pages": "124",
+      "author": "Austen, Jane",
+      "img": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books2.jpg",
+      "read": false
+    },
+    {
+      "title": "Anna Karenina",
+      "pages": "294",
+      "img": "https://m.media-amazon.com/images/I/41FcQOFjYWS._SL500_.jpg",
+      "author": "Tolstoy, Leo",
+      "read": true,
+      "id": "13"
+    },
+    {
+      "title": "The Hours",
+      "pages": "394",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQniIVhC08I95p8h2f4jHvwxG3E0L_uEhCbSg&usqp=CAU",
+      "author": "Cunnningham, Michael",
+      "read": true,
+      "id": "14"
+    }
+  ]
+}
